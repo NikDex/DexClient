@@ -2,4 +2,4 @@
 
 Supported Version: 1.20.80
 
-Created by me without using other people's clients.
+Created by me without using other people's clients. (It was created from scratch)
